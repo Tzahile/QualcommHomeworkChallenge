@@ -1,0 +1,6 @@
+{
+  "id": "1.0.1",
+  "date": "01-12-2020",
+  "author": "Tzahi Lehmann",
+  "notes": "* codegen: support named function expression in v-on (#9709) 3433ba5, closes #9709 #9707\n* core: cleanup timeouts for async components (#9649) 02d21c2, closes #9649 #9648\n* core: only unset dom prop when not present f11449d, closes #9650\n* core: use window.performance for compatibility in JSDOM (#9700) 653c74e, closes #9700 #9698\n* scheduler: revert timeStamp check 22790b2, closes #9729 #9632\n* slots: fix slots not updating when passing down normal slots as $scopedSlots ebc1893, closes #9699\n* types: allow using functions on the PropTypes (#9733) df4af4b, closes #9733 #9692\n* types: support string type for style in VNode data (#9728) 982d5a4, closes #9728 #9727"
+}

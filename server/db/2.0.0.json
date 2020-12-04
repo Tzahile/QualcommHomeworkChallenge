@@ -1,0 +1,6 @@
+{
+  "id": "2.0.0",
+  "date": "02-12-2020",
+  "author": "Tzahi Lehmann",
+  "notes": "* types: fix prop constructor type inference (#10779) 4821149, closes #10779\n* fix function expression regex (#9922) 569b728, closes #9922 #9920\n* compiler: Remove the warning for valid v-slot value (#9917) 085d188, closes #9917\n* types: fix global namespace declaration for UMD bundle (#9912) ab50e8e, closes #9912"
+}
