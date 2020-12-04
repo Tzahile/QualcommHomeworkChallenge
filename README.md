@@ -2,7 +2,6 @@
 
 ## Step to initialize the projects
 
-- unzip the file
 - `$ cd client`
 - `$ yarn install --prod --frozen-lockfile`
 - `$ cd ../server`
